@@ -1,17 +1,21 @@
 ﻿<Properties StartupConfiguration="{B2B58FB2-4462-6B0C-A872-40DD957E5FE0}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Standard Assets/Utility/SimpleActivatorMenu.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Pocket Portal VR/Scripts/Portal.cs">
     <Files>
       <File FileName="Assets/Standard Assets/Utility/SimpleActivatorMenu.cs" Line="11" Column="1" />
+      <File FileName="Assets/Pocket Portal VR/Scripts/Portal.cs" Line="11" Column="16" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="New Unity Project" expanded="True">
             <Node name="Assets" expanded="True">
-              <Node name="Standard Assets" expanded="True">
-                <Node name="Utility" expanded="True">
-                  <Node name="SimpleActivatorMenu.cs" selected="True" />
+              <Node name="Pocket Portal VR" expanded="True">
+                <Node name="Scripts" expanded="True">
+                  <Node name="Portal.cs" selected="True" />
                 </Node>
+              </Node>
+              <Node name="Standard Assets" expanded="True">
+                <Node name="Utility" expanded="True" />
               </Node>
             </Node>
           </Node>
