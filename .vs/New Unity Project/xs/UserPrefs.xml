@@ -1,36 +1,14 @@
 ﻿<Properties StartupConfiguration="{B2B58FB2-4462-6B0C-A872-40DD957E5FE0}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Pocket Portal VR/Scripts/Portal.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Library/PackageCache/com.unity.recorder@2.5.5/Editor/Sources/Recorders/GIFRecorder/GIFRecorder.cs">
     <Files>
       <File FileName="Assets/Standard Assets/Utility/SimpleActivatorMenu.cs" Line="11" Column="1" />
       <File FileName="Assets/Pocket Portal VR/Scripts/Portal.cs" Line="11" Column="16" />
+      <File FileName="Library/PackageCache/com.unity.recorder@2.5.5/Editor/Sources/Recorders/GIFRecorder/GIFRecorder.cs" Line="1" Column="1" />
     </Files>
-    <Pads>
-      <Pad Id="ProjectPad">
-        <State name="__root__">
-          <Node name="New Unity Project" expanded="True">
-            <Node name="Assets" expanded="True">
-              <Node name="Pocket Portal VR" expanded="True">
-                <Node name="Scripts" expanded="True">
-                  <Node name="Portal.cs" selected="True" />
-                </Node>
-              </Node>
-              <Node name="Standard Assets" expanded="True">
-                <Node name="Utility" expanded="True" />
-              </Node>
-            </Node>
-          </Node>
-        </State>
-      </Pad>
-      <Pad Id="MonoDevelop.UnitTesting.TestPad">
-        <State name="__root__">
-          <Node name="Unity" expanded="True" selected="True" />
-        </State>
-      </Pad>
-    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="5492047f-e1f3-46e7-8701-45fea73abe97" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="1435da45-6be1-479f-8d4a-f9e38001cc22" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
